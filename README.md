@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pulisich
-- 👀 I’m interested in coding, martial arts, rock climbing, archery, languages, gaming, and movies.
-- 🌱 I’m currently learning frontend developing.
+- 👀 I’m interested in software development, game development, martial arts, outdoor sports, and movies.
+- 🌱 I’m looking for work as a Frontend React JS Developer.
 - 💞️ I’m looking to collaborate on projects that would expand my knowledge.
 - 📫 How to reach me my linkedIn profile is on my profile or you can just leave a message here :D.
 
